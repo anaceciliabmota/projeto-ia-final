@@ -1,0 +1,1022 @@
+{
+  "Please Please Me": {
+    "cover": "covers/Please Please Me.jpg",
+    "tracks": [
+      {
+        "position": 1,
+        "title": "I Saw Her Standing There",
+        "duration_ms": 175800
+      },
+      {
+        "position": 2,
+        "title": "Misery",
+        "duration_ms": 110173
+      },
+      {
+        "position": 3,
+        "title": "Anna (Go to Him)",
+        "duration_ms": 177933
+      },
+      {
+        "position": 4,
+        "title": "Chains",
+        "duration_ms": 146493
+      },
+      {
+        "position": 5,
+        "title": "Boys",
+        "duration_ms": 147506
+      },
+      {
+        "position": 6,
+        "title": "Ask Me Why",
+        "duration_ms": 147733
+      },
+      {
+        "position": 7,
+        "title": "Please Please Me",
+        "duration_ms": 121786
+      },
+      {
+        "position": 8,
+        "title": "Love Me Do",
+        "duration_ms": 141693
+      },
+      {
+        "position": 9,
+        "title": "P.S. I Love You",
+        "duration_ms": 124000
+      },
+      {
+        "position": 10,
+        "title": "Baby It’s You",
+        "duration_ms": 158066
+      },
+      {
+        "position": 11,
+        "title": "Do You Want to Know a Secret",
+        "duration_ms": 120000
+      },
+      {
+        "position": 12,
+        "title": "A Taste of Honey",
+        "duration_ms": 125000
+      },
+      {
+        "position": 13,
+        "title": "There’s a Place",
+        "duration_ms": 113000
+      },
+      {
+        "position": 14,
+        "title": "Twist and Shout",
+        "duration_ms": 153266
+      }
+    ]
+  },
+  "With The Beatles": {
+    "cover": "covers/With The Beatles.jpg",
+    "tracks": [
+      {
+        "position": 1,
+        "title": "It Won’t Be Long",
+        "duration_ms": 133000
+      },
+      {
+        "position": 2,
+        "title": "All I’ve Got to Do",
+        "duration_ms": 125000
+      },
+      {
+        "position": 3,
+        "title": "All My Loving",
+        "duration_ms": 130000
+      },
+      {
+        "position": 4,
+        "title": "Don’t Bother Me",
+        "duration_ms": 149000
+      },
+      {
+        "position": 5,
+        "title": "Little Child",
+        "duration_ms": 108000
+      },
+      {
+        "position": 6,
+        "title": "Till There Was You",
+        "duration_ms": 137000
+      },
+      {
+        "position": 7,
+        "title": "Please Mister Postman",
+        "duration_ms": 155000
+      },
+      {
+        "position": 8,
+        "title": "Roll Over Beethoven",
+        "duration_ms": 168000
+      },
+      {
+        "position": 9,
+        "title": "Hold Me Tight",
+        "duration_ms": 153000
+      },
+      {
+        "position": 10,
+        "title": "You Really Got a Hold on Me",
+        "duration_ms": 183000
+      },
+      {
+        "position": 11,
+        "title": "I Wanna Be Your Man",
+        "duration_ms": 119000
+      },
+      {
+        "position": 12,
+        "title": "Devil in Her Heart",
+        "duration_ms": 148000
+      },
+      {
+        "position": 13,
+        "title": "Not a Second Time",
+        "duration_ms": 128000
+      },
+      {
+        "position": 14,
+        "title": "Money (That’s What I Want)",
+        "duration_ms": 168000
+      }
+    ]
+  },
+  "A Hard Day's Night": {
+    "cover": "covers/A Hard Day's Night.jpg",
+    "tracks": [
+      {
+        "position": 1,
+        "title": "A Hard Day’s Night",
+        "duration_ms": 148000
+      },
+      {
+        "position": 2,
+        "title": "I Should Have Known Better",
+        "duration_ms": 162000
+      },
+      {
+        "position": 3,
+        "title": "If I Fell",
+        "duration_ms": 138000
+      },
+      {
+        "position": 4,
+        "title": "I’m Happy Just to Dance With You",
+        "duration_ms": 119000
+      },
+      {
+        "position": 5,
+        "title": "And I Love Her",
+        "duration_ms": 151000
+      },
+      {
+        "position": 6,
+        "title": "Tell Me Why",
+        "duration_ms": 130000
+      },
+      {
+        "position": 7,
+        "title": "Can’t Buy Me Love",
+        "duration_ms": 134000
+      },
+      {
+        "position": 8,
+        "title": "Any Time at All",
+        "duration_ms": 133400
+      },
+      {
+        "position": 9,
+        "title": "I’ll Cry Instead",
+        "duration_ms": 107733
+      },
+      {
+        "position": 10,
+        "title": "Things We Said Today",
+        "duration_ms": 158840
+      },
+      {
+        "position": 11,
+        "title": "When I Get Home",
+        "duration_ms": 136000
+      },
+      {
+        "position": 12,
+        "title": "You Can’t Do That",
+        "duration_ms": 157000
+      },
+      {
+        "position": 13,
+        "title": "I’ll Be Back",
+        "duration_ms": 140573
+      }
+    ]
+  },
+  "Beatles for Sale": {
+    "cover": "covers/Beatles for Sale.jpg",
+    "tracks": [
+      {
+        "position": 1,
+        "title": "No Reply",
+        "duration_ms": 138000
+      },
+      {
+        "position": 2,
+        "title": "I’m a Loser",
+        "duration_ms": 154000
+      },
+      {
+        "position": 3,
+        "title": "Baby’s in Black",
+        "duration_ms": 128000
+      },
+      {
+        "position": 4,
+        "title": "Rock and Roll Music",
+        "duration_ms": 154000
+      },
+      {
+        "position": 5,
+        "title": "I’ll Follow the Sun",
+        "duration_ms": 111000
+      },
+      {
+        "position": 6,
+        "title": "Mr. Moonlight",
+        "duration_ms": 157000
+      },
+      {
+        "position": 7,
+        "title": "Medley: Kansas City / Hey‐Hey‐Hey‐Hey!",
+        "duration_ms": 153000
+      },
+      {
+        "position": 8,
+        "title": "Eight Days a Week",
+        "duration_ms": 165000
+      },
+      {
+        "position": 9,
+        "title": "Words of Love",
+        "duration_ms": 135000
+      },
+      {
+        "position": 10,
+        "title": "Honey Don’t",
+        "duration_ms": 180000
+      },
+      {
+        "position": 11,
+        "title": "Every Little Thing",
+        "duration_ms": 125000
+      },
+      {
+        "position": 12,
+        "title": "I Don’t Want to Spoil the Party",
+        "duration_ms": 156000
+      },
+      {
+        "position": 13,
+        "title": "What You’re Doing",
+        "duration_ms": 155000
+      },
+      {
+        "position": 14,
+        "title": "Everybody’s Trying to Be My Baby",
+        "duration_ms": 144000
+      }
+    ]
+  },
+  "Help!": {
+    "cover": "covers/Help!.jpg",
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Help!",
+        "duration_ms": 141066
+      },
+      {
+        "position": 2,
+        "title": "The Night Before",
+        "duration_ms": 156706
+      },
+      {
+        "position": 3,
+        "title": "You’ve Got to Hide Your Love Away",
+        "duration_ms": 131426
+      },
+      {
+        "position": 4,
+        "title": "I Need You",
+        "duration_ms": 151506
+      },
+      {
+        "position": 5,
+        "title": "Another Girl",
+        "duration_ms": 128000
+      },
+      {
+        "position": 6,
+        "title": "You’re Going to Lose That Girl",
+        "duration_ms": 140426
+      },
+      {
+        "position": 7,
+        "title": "Ticket to Ride",
+        "duration_ms": 192506
+      },
+      {
+        "position": 8,
+        "title": "Act Naturally",
+        "duration_ms": 153160
+      },
+      {
+        "position": 9,
+        "title": "It’s Only Love",
+        "duration_ms": 118800
+      },
+      {
+        "position": 10,
+        "title": "You Like Me Too Much",
+        "duration_ms": 158800
+      },
+      {
+        "position": 11,
+        "title": "Tell Me What You See",
+        "duration_ms": 159706
+      },
+      {
+        "position": 12,
+        "title": "I’ve Just Seen a Face",
+        "duration_ms": 127160
+      },
+      {
+        "position": 13,
+        "title": "Yesterday",
+        "duration_ms": 127440
+      },
+      {
+        "position": 14,
+        "title": "Dizzy Miss Lizzy",
+        "duration_ms": 174266
+      }
+    ]
+  },
+  "Rubber Soul": {
+    "cover": "covers/Rubber Soul.jpg",
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Drive My Car",
+        "duration_ms": 141000
+      },
+      {
+        "position": 2,
+        "title": "Norwegian Wood (This Bird Has Flown)",
+        "duration_ms": 125000
+      },
+      {
+        "position": 3,
+        "title": "You Won’t See Me",
+        "duration_ms": 198000
+      },
+      {
+        "position": 4,
+        "title": "Nowhere Man",
+        "duration_ms": 164000
+      },
+      {
+        "position": 5,
+        "title": "Think for Yourself",
+        "duration_ms": 138000
+      },
+      {
+        "position": 6,
+        "title": "The Word",
+        "duration_ms": 161000
+      },
+      {
+        "position": 7,
+        "title": "Michelle",
+        "duration_ms": 161000
+      },
+      {
+        "position": 8,
+        "title": "What Goes On",
+        "duration_ms": 167000
+      },
+      {
+        "position": 9,
+        "title": "Girl",
+        "duration_ms": 149000
+      },
+      {
+        "position": 10,
+        "title": "I’m Looking Through You",
+        "duration_ms": 144000
+      },
+      {
+        "position": 11,
+        "title": "In My Life",
+        "duration_ms": 147000
+      },
+      {
+        "position": 12,
+        "title": "Wait",
+        "duration_ms": 133000
+      },
+      {
+        "position": 13,
+        "title": "If I Needed Someone",
+        "duration_ms": 141000
+      },
+      {
+        "position": 14,
+        "title": "Run for Your Life",
+        "duration_ms": 147000
+      }
+    ]
+  },
+  "Revolver": {
+    "cover": "covers/Revolver.jpg",
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Taxman",
+        "duration_ms": 161000
+      },
+      {
+        "position": 2,
+        "title": "Eleanor Rigby",
+        "duration_ms": 130000
+      },
+      {
+        "position": 3,
+        "title": "I’m Only Sleeping",
+        "duration_ms": 184000
+      },
+      {
+        "position": 4,
+        "title": "Love You To",
+        "duration_ms": 183000
+      },
+      {
+        "position": 5,
+        "title": "Here, There and Everywhere",
+        "duration_ms": 148000
+      },
+      {
+        "position": 6,
+        "title": "Yellow Submarine",
+        "duration_ms": 162000
+      },
+      {
+        "position": 7,
+        "title": "She Said She Said",
+        "duration_ms": 159000
+      },
+      {
+        "position": 8,
+        "title": "Good Day Sunshine",
+        "duration_ms": 132000
+      },
+      {
+        "position": 9,
+        "title": "And Your Bird Can Sing",
+        "duration_ms": 124000
+      },
+      {
+        "position": 10,
+        "title": "For No One",
+        "duration_ms": 124000
+      },
+      {
+        "position": 11,
+        "title": "Doctor Robert",
+        "duration_ms": 137000
+      },
+      {
+        "position": 12,
+        "title": "I Want to Tell You",
+        "duration_ms": 152000
+      },
+      {
+        "position": 13,
+        "title": "Got to Get You Into My Life",
+        "duration_ms": 153000
+      },
+      {
+        "position": 14,
+        "title": "Tomorrow Never Knows",
+        "duration_ms": 177000
+      }
+    ]
+  },
+  "Sgt. Pepper's Lonely Hearts Club Band": {
+    "cover": "covers/Sgt. Pepper's Lonely Hearts Club Band.jpg",
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Sgt. Pepper’s Lonely Hearts Club Band",
+        "duration_ms": 122000
+      },
+      {
+        "position": 2,
+        "title": "With a Little Help From My Friends",
+        "duration_ms": 164000
+      },
+      {
+        "position": 3,
+        "title": "Lucy in the Sky With Diamonds",
+        "duration_ms": 210000
+      },
+      {
+        "position": 4,
+        "title": "Getting Better",
+        "duration_ms": 170000
+      },
+      {
+        "position": 5,
+        "title": "Fixing a Hole",
+        "duration_ms": 159000
+      },
+      {
+        "position": 6,
+        "title": "She’s Leaving Home",
+        "duration_ms": 217000
+      },
+      {
+        "position": 7,
+        "title": "Being for the Benefit of Mr. Kite!",
+        "duration_ms": 159000
+      },
+      {
+        "position": 8,
+        "title": "Within You Without You",
+        "duration_ms": 307000
+      },
+      {
+        "position": 9,
+        "title": "When I’m Sixty‐Four",
+        "duration_ms": 160000
+      },
+      {
+        "position": 10,
+        "title": "Lovely Rita",
+        "duration_ms": 164000
+      },
+      {
+        "position": 11,
+        "title": "Good Morning Good Morning",
+        "duration_ms": 163000
+      },
+      {
+        "position": 12,
+        "title": "Sgt. Pepper’s Lonely Hearts Club Band (Reprise)",
+        "duration_ms": 79000
+      },
+      {
+        "position": 13,
+        "title": "A Day in the Life",
+        "duration_ms": 334000
+      }
+    ]
+  },
+  "Magical Mystery Tour": {
+    "cover": "covers/Magical Mystery Tour.jpg",
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Magical Mystery Tour",
+        "duration_ms": 174000
+      },
+      {
+        "position": 2,
+        "title": "The Fool on the Hill",
+        "duration_ms": 182000
+      },
+      {
+        "position": 3,
+        "title": "Flying",
+        "duration_ms": 139000
+      },
+      {
+        "position": 4,
+        "title": "Blue Jay Way",
+        "duration_ms": 239000
+      },
+      {
+        "position": 5,
+        "title": "Your Mother Should Know",
+        "duration_ms": 152000
+      },
+      {
+        "position": 6,
+        "title": "I Am the Walrus",
+        "duration_ms": 279000
+      },
+      {
+        "position": 7,
+        "title": "Hello Goodbye",
+        "duration_ms": 213000
+      },
+      {
+        "position": 8,
+        "title": "Strawberry Fields Forever",
+        "duration_ms": 253000
+      },
+      {
+        "position": 9,
+        "title": "Penny Lane",
+        "duration_ms": 185000
+      },
+      {
+        "position": 10,
+        "title": "Baby You’re a Rich Man",
+        "duration_ms": 186000
+      },
+      {
+        "position": 11,
+        "title": "All You Need Is Love",
+        "duration_ms": 228000
+      }
+    ]
+  },
+  "The Beatles": {
+    "cover": "covers/The Beatles.jpg",
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Back in the U.S.S.R.",
+        "duration_ms": 163306
+      },
+      {
+        "position": 2,
+        "title": "Dear Prudence",
+        "duration_ms": 236360
+      },
+      {
+        "position": 3,
+        "title": "Glass Onion",
+        "duration_ms": 137973
+      },
+      {
+        "position": 4,
+        "title": "Ob‐La‐Di, Ob‐La‐Da",
+        "duration_ms": 188826
+      },
+      {
+        "position": 5,
+        "title": "Wild Honey Pie",
+        "duration_ms": 52906
+      },
+      {
+        "position": 6,
+        "title": "The Continuing Story of Bungalow Bill",
+        "duration_ms": 194066
+      },
+      {
+        "position": 7,
+        "title": "While My Guitar Gently Weeps",
+        "duration_ms": 285293
+      },
+      {
+        "position": 8,
+        "title": "Happiness Is a Warm Gun",
+        "duration_ms": 163466
+      },
+      {
+        "position": 9,
+        "title": "Martha My Dear",
+        "duration_ms": 148733
+      },
+      {
+        "position": 10,
+        "title": "I’m So Tired",
+        "duration_ms": 123306
+      },
+      {
+        "position": 11,
+        "title": "Blackbird",
+        "duration_ms": 138266
+      },
+      {
+        "position": 12,
+        "title": "Piggies",
+        "duration_ms": 124333
+      },
+      {
+        "position": 13,
+        "title": "Rocky Raccoon",
+        "duration_ms": 212893
+      },
+      {
+        "position": 14,
+        "title": "Don’t Pass Me By",
+        "duration_ms": 230400
+      },
+      {
+        "position": 15,
+        "title": "Why Don’t We Do It in the Road?",
+        "duration_ms": 101440
+      },
+      {
+        "position": 16,
+        "title": "I Will",
+        "duration_ms": 106026
+      },
+      {
+        "position": 17,
+        "title": "Julia",
+        "duration_ms": 174200
+      },
+      {
+        "position": 1,
+        "title": "Birthday",
+        "duration_ms": 164853
+      },
+      {
+        "position": 2,
+        "title": "Yer Blues",
+        "duration_ms": 241760
+      },
+      {
+        "position": 3,
+        "title": "Mother Nature’s Son",
+        "duration_ms": 169080
+      },
+      {
+        "position": 4,
+        "title": "Everybody’s Got Something to Hide Except Me and My Monkey",
+        "duration_ms": 146586
+      },
+      {
+        "position": 5,
+        "title": "Sexy Sadie",
+        "duration_ms": 197093
+      },
+      {
+        "position": 6,
+        "title": "Helter Skelter",
+        "duration_ms": 270973
+      },
+      {
+        "position": 7,
+        "title": "Long, Long, Long",
+        "duration_ms": 185493
+      },
+      {
+        "position": 8,
+        "title": "Revolution 1",
+        "duration_ms": 256106
+      },
+      {
+        "position": 9,
+        "title": "Honey Pie",
+        "duration_ms": 162466
+      },
+      {
+        "position": 10,
+        "title": "Savoy Truffle",
+        "duration_ms": 175640
+      },
+      {
+        "position": 11,
+        "title": "Cry Baby Cry",
+        "duration_ms": 193000
+      },
+      {
+        "position": 12,
+        "title": "Revolution 9",
+        "duration_ms": 493746
+      },
+      {
+        "position": 13,
+        "title": "Good Night",
+        "duration_ms": 191800
+      }
+    ]
+  },
+  "Yellow Submarine": {
+    "cover": "covers/Yellow Submarine.jpg",
+    "tracks": [
+      {
+        "position": 2,
+        "title": "Only a Northern Song",
+        "duration_ms": 208000
+      },
+      {
+        "position": 3,
+        "title": "All Together Now",
+        "duration_ms": 134000
+      },
+      {
+        "position": 4,
+        "title": "Hey Bulldog",
+        "duration_ms": 194000
+      },
+      {
+        "position": 5,
+        "title": "It’s All Too Much",
+        "duration_ms": 388000
+      },
+      {
+        "position": 7,
+        "title": "Pepperland",
+        "duration_ms": 144000
+      },
+      {
+        "position": 8,
+        "title": "Sea of Time",
+        "duration_ms": 180000
+      },
+      {
+        "position": 9,
+        "title": "Sea of Holes",
+        "duration_ms": 141000
+      },
+      {
+        "position": 10,
+        "title": "Sea of Monsters",
+        "duration_ms": 220000
+      },
+      {
+        "position": 11,
+        "title": "March of the Meanies",
+        "duration_ms": 142000
+      },
+      {
+        "position": 12,
+        "title": "Pepperland Laid Waste",
+        "duration_ms": 135000
+      },
+      {
+        "position": 13,
+        "title": "Yellow Submarine in Pepperland",
+        "duration_ms": 131000
+      }
+    ]
+  },
+  "Let It Be": {
+    "cover": "covers/Let It Be.jpg",
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Two of Us",
+        "duration_ms": null
+      },
+      {
+        "position": 2,
+        "title": "I Me Mine",
+        "duration_ms": null
+      },
+      {
+        "position": 3,
+        "title": "One After 909",
+        "duration_ms": null
+      },
+      {
+        "position": 4,
+        "title": "Across the Universe",
+        "duration_ms": null
+      },
+      {
+        "position": 5,
+        "title": "Dig It",
+        "duration_ms": null
+      },
+      {
+        "position": 6,
+        "title": "Let It Be",
+        "duration_ms": null
+      },
+      {
+        "position": 7,
+        "title": "Maggie Mae",
+        "duration_ms": null
+      },
+      {
+        "position": 8,
+        "title": "Dig a Pony",
+        "duration_ms": null
+      },
+      {
+        "position": 9,
+        "title": "The Long & Winding Road",
+        "duration_ms": null
+      },
+      {
+        "position": 10,
+        "title": "I Got a Feeling",
+        "duration_ms": null
+      },
+      {
+        "position": 11,
+        "title": "For You Blue",
+        "duration_ms": null
+      },
+      {
+        "position": 12,
+        "title": "Get Back",
+        "duration_ms": null
+      }
+    ]
+  },
+  "Abbey Road": {
+    "cover": "covers/Abbey Road.jpg",
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Come Together",
+        "duration_ms": 261000
+      },
+      {
+        "position": 2,
+        "title": "Something",
+        "duration_ms": 183000
+      },
+      {
+        "position": 3,
+        "title": "Maxwell’s Silver Hammer",
+        "duration_ms": 207000
+      },
+      {
+        "position": 4,
+        "title": "Oh! Darling",
+        "duration_ms": 207000
+      },
+      {
+        "position": 5,
+        "title": "Octopus’s Garden",
+        "duration_ms": 171000
+      },
+      {
+        "position": 6,
+        "title": "I Want You (She’s So Heavy)",
+        "duration_ms": 467000
+      },
+      {
+        "position": 7,
+        "title": "Here Comes the Sun",
+        "duration_ms": 186000
+      },
+      {
+        "position": 8,
+        "title": "Because",
+        "duration_ms": 166000
+      },
+      {
+        "position": 9,
+        "title": "You Never Give Me Your Money",
+        "duration_ms": 242000
+      },
+      {
+        "position": 10,
+        "title": "Sun King",
+        "duration_ms": 146000
+      },
+      {
+        "position": 11,
+        "title": "Mean Mr. Mustard",
+        "duration_ms": 66000
+      },
+      {
+        "position": 12,
+        "title": "Polythene Pam",
+        "duration_ms": 73000
+      },
+      {
+        "position": 13,
+        "title": "She Came In Through the Bathroom Window",
+        "duration_ms": 118000
+      },
+      {
+        "position": 14,
+        "title": "Golden Slumbers",
+        "duration_ms": 92000
+      },
+      {
+        "position": 15,
+        "title": "Carry That Weight",
+        "duration_ms": 97000
+      },
+      {
+        "position": 16,
+        "title": "The End",
+        "duration_ms": 140000
+      },
+      {
+        "position": 17,
+        "title": "Her Majesty",
+        "duration_ms": 23000
+      }
+    ]
+  }
+}
