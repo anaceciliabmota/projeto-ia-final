@@ -23,7 +23,7 @@ def buscar_filmes_terror(quantidade=200, ordenar_por="popularity.desc", min_voto
             params={
                 "api_key": TMDB_API_KEY,
                 "with_genres": TMDB_HORROR_GENRE_ID,
-                "language": "pt-BR",
+                "language": "en-US",
                 "sort_by": ordenar_por,
                 "vote_count.gte": min_votos,
                 "page": page,
